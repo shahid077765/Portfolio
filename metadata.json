@@ -1,0 +1,7 @@
+{
+  "name": " Shahid Ahmed - Portfolio",
+  "description": "An immersive, creative portfolio website for Shahid Ahmed, a senior web developer, featuring animated components and a Gemini-powered AI persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
